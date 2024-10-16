@@ -21,5 +21,6 @@ int main() // funksioni main() eshte funksioni i pare dhe kryesor i programit
   // qe e perdorim...
 
   cout << "Hello World!\n"; // Komandat cout do te printojme nje tekst ne ekran
+  cout<<" This is text to be shown";
 
 } // Ketu do te kthehet ky funksioni main()
